@@ -1,5 +1,3 @@
-# README.md for Hide Cryptosleep Pawn
-
 ## Overview
 
 **Hide Cryptosleep Pawn** is a mod for RimWorld that enhances your gameplay by hiding pawns in cryptosleep from the Colonist Bar. This mod is particularly useful for players who want to manage their colonists more efficiently, especially when dealing with a large number of pawns.
