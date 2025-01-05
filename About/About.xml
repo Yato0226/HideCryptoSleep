@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Hide Cryptosleep Pawn</name>
+  <author>louize</author>
+  <packageId>louze.hiddencryptosleep</packageId>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <description>
+    Hides pawns in crypto sleep from display in the Colonist Bar.
+    Created by BrokenValkyrie and updated for version 1.5 by Louize
+    https://ludeon.com/forums/index.php?topic=38274.0
+</description>
+<modDependencies>
+   <li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+</modDependencies>
+</ModMetaData>

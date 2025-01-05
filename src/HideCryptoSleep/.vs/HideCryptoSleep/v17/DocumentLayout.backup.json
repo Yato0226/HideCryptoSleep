@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\louiz\\source\\repos\\3WIP\\HideCryptoSleep\\src\\HideCryptoSleep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED9B84-D85F-4730-93C2-7378792A584B}|HideCryptoSleep.csproj|C:\\Users\\louiz\\source\\repos\\3WIP\\HideCryptoSleep\\src\\HideCryptoSleep\\recachepawns_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ED9B84-D85F-4730-93C2-7378792A584B}|HideCryptoSleep.csproj|solutionrelative:recachepawns_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED9B84-D85F-4730-93C2-7378792A584B}|HideCryptoSleep.csproj|C:\\Users\\louiz\\source\\repos\\3WIP\\HideCryptoSleep\\src\\HideCryptoSleep\\hidecryptosleep_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ED9B84-D85F-4730-93C2-7378792A584B}|HideCryptoSleep.csproj|solutionrelative:hidecryptosleep_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HideCryptoSleep||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED9B84-D85F-4730-93C2-7378792A584B}|HideCryptoSleep.csproj|C:\\Users\\louiz\\source\\repos\\3WIP\\HideCryptoSleep\\src\\HideCryptoSleep\\colonistbar.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{68ED9B84-D85F-4730-93C2-7378792A584B}|HideCryptoSleep.csproj|solutionrelative:colonistbar.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED9B84-D85F-4730-93C2-7378792A584B}|HideCryptoSleep.csproj|C:\\Users\\louiz\\source\\repos\\3WIP\\HideCryptoSleep\\src\\HideCryptoSleep\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ED9B84-D85F-4730-93C2-7378792A584B}|HideCryptoSleep.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED9B84-D85F-4730-93C2-7378792A584B}|HideCryptoSleep.csproj|c:\\users\\louiz\\source\\repos\\3wip\\hidecryptosleep\\src\\hidecryptosleep\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HideCryptoSleep",
+              "DocumentMoniker": "C:\\Users\\louiz\\source\\repos\\3WIP\\HideCryptoSleep\\src\\HideCryptoSleep\\HideCryptoSleep.csproj",
+              "RelativeDocumentMoniker": "HideCryptoSleep.csproj",
+              "ToolTip": "C:\\Users\\louiz\\source\\repos\\3WIP\\HideCryptoSleep\\src\\HideCryptoSleep\\HideCryptoSleep.csproj",
+              "RelativeToolTip": "HideCryptoSleep.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-01T11:48:42.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Colonistbar.txt",
+              "DocumentMoniker": "C:\\Users\\louiz\\source\\repos\\3WIP\\HideCryptoSleep\\src\\HideCryptoSleep\\Colonistbar.txt",
+              "RelativeDocumentMoniker": "Colonistbar.txt",
+              "ToolTip": "C:\\Users\\louiz\\source\\repos\\3WIP\\HideCryptoSleep\\src\\HideCryptoSleep\\Colonistbar.txt",
+              "RelativeToolTip": "Colonistbar.txt",
+              "ViewState": "AgIAAKgBAAAAAAAAAAAgwMMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-01T11:31:41.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\louiz\\source\\repos\\3WIP\\HideCryptoSleep\\src\\HideCryptoSleep\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\louiz\\source\\repos\\3WIP\\HideCryptoSleep\\src\\HideCryptoSleep\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:19:34.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecachePawns_Patch.cs",
+              "DocumentMoniker": "C:\\Users\\louiz\\source\\repos\\3WIP\\HideCryptoSleep\\src\\HideCryptoSleep\\RecachePawns_Patch.cs",
+              "RelativeDocumentMoniker": "RecachePawns_Patch.cs",
+              "ToolTip": "C:\\Users\\louiz\\source\\repos\\3WIP\\HideCryptoSleep\\src\\HideCryptoSleep\\RecachePawns_Patch.cs",
+              "RelativeToolTip": "RecachePawns_Patch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:19:31.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HideCryptoSleep_Init.cs",
+              "DocumentMoniker": "C:\\Users\\louiz\\source\\repos\\3WIP\\HideCryptoSleep\\src\\HideCryptoSleep\\HideCryptoSleep_Init.cs",
+              "RelativeDocumentMoniker": "HideCryptoSleep_Init.cs",
+              "ToolTip": "C:\\Users\\louiz\\source\\repos\\3WIP\\HideCryptoSleep\\src\\HideCryptoSleep\\HideCryptoSleep_Init.cs",
+              "RelativeToolTip": "HideCryptoSleep_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:18:39.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
