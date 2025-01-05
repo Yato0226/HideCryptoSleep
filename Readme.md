@@ -23,7 +23,7 @@ This mod requires the following dependency to function properly:
   - **Package ID:** brrainz.harmony
   - **Display Name:** Harmony
   - **Steam Workshop URL:** [Harmony on Steam](steam://url/CommunityFilePage/2009463077)
-  - **Download URL:** [Harmony Releases](https://github.com/pardeike/HarmonyRimWorld/releases/latest)
+  - **Download URL:** [Harmony Releases]((https://steamcommunity.com/workshop/filedetails/?id=2009463077))
 
 ## Installation
 
